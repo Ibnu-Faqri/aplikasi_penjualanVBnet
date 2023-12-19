@@ -46,8 +46,8 @@ Public Class FormLogin
 
     Private Sub FormLogin_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Call KondisiAwal()
-        TextBox1.Text = ""
-        TextBox2.Text = ""
+        TextBox1.Text = "ADM001"
+        TextBox2.Text = "admin"
         TextBox2.PasswordChar = "*"
     End Sub
 
@@ -58,6 +58,4 @@ Public Class FormLogin
             TextBox2.PasswordChar = "*"
         End If
     End Sub
-
- 
 End Class

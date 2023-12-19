@@ -34,9 +34,9 @@ C:\Users\ASUS\Documents\vb.net aplikasiPenjualan\AppPenjualan\AppPenjualan\obj\x
 C:\Users\ASUS\Documents\vb.net aplikasiPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
 C:\Users\ASUS\Documents\vb.net aplikasiPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
 C:\Users\ASUS\Documents\vb.net aplikasiPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
-C:\Users\ASUS\OneDrive\Documents\vb.net aplikasiPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
-C:\Users\ASUS\OneDrive\Documents\vb.net aplikasiPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
-C:\Users\ASUS\OneDrive\Documents\vb.net aplikasiPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
-C:\Users\ASUS\OneDrive\Documents\vb.net aplikasiPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
-C:\Users\ASUS\OneDrive\Documents\vb.net aplikasiPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
-C:\Users\ASUS\OneDrive\Documents\vb.net aplikasiPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+C:\Users\ASUS\Documents\vb.net aplikasiPenjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\ASUS\Documents\vb.net aplikasiPenjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\ASUS\Documents\vb.net aplikasiPenjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+C:\Users\ASUS\Documents\vb.net aplikasiPenjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+C:\Users\ASUS\Documents\vb.net aplikasiPenjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+C:\Users\ASUS\Documents\vb.net aplikasiPenjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb

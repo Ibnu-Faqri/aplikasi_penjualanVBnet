@@ -145,14 +145,4 @@ Public Class FormMasterPelanggan
         End If
         TextBox1.Text = UrutanKode
     End Sub
-
-    Private Sub DataGridView1_CellClick(ByVal sender As Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles DataGridView1.CellClick
-        Dim i As Integer
-        i = DataGridView1.CurrentRow.Index
-        On Error Resume Next
-
-        TextBox1.Text = DataGridView1.Item(0, i).Value
-        TextBox1.Focus()
-    End Sub
-
 End Class

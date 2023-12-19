@@ -35,7 +35,6 @@ Partial Class FormMasterAdmin
         Me.Button3 = New System.Windows.Forms.Button()
         Me.Button4 = New System.Windows.Forms.Button()
         Me.DataGridView1 = New System.Windows.Forms.DataGridView()
-        Me.CheckBox1 = New System.Windows.Forms.CheckBox()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -150,22 +149,11 @@ Partial Class FormMasterAdmin
         Me.DataGridView1.Size = New System.Drawing.Size(595, 241)
         Me.DataGridView1.TabIndex = 16
         '
-        'CheckBox1
-        '
-        Me.CheckBox1.AutoSize = True
-        Me.CheckBox1.Location = New System.Drawing.Point(458, 113)
-        Me.CheckBox1.Name = "CheckBox1"
-        Me.CheckBox1.Size = New System.Drawing.Size(148, 24)
-        Me.CheckBox1.TabIndex = 17
-        Me.CheckBox1.Text = "Show Password"
-        Me.CheckBox1.UseVisualStyleBackColor = True
-        '
         'FormMasterAdmin
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(637, 556)
-        Me.Controls.Add(Me.CheckBox1)
         Me.Controls.Add(Me.DataGridView1)
         Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.Button3)
@@ -200,5 +188,4 @@ Partial Class FormMasterAdmin
     Friend WithEvents Button3 As System.Windows.Forms.Button
     Friend WithEvents Button4 As System.Windows.Forms.Button
     Friend WithEvents DataGridView1 As System.Windows.Forms.DataGridView
-    Friend WithEvents CheckBox1 As System.Windows.Forms.CheckBox
 End Class

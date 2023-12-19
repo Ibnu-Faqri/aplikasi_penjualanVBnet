@@ -148,12 +148,4 @@ Public Class FormMasterAdmin
         End If
         TextBox1.Text = UrutanKode
     End Sub
-
-    Private Sub CheckBox1_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CheckBox1.CheckedChanged
-        If CheckBox1.Checked = True Then
-            TextBox3.PasswordChar = ""
-        Else
-            TextBox3.PasswordChar = "*"
-        End If
-    End Sub
 End Class

@@ -124,7 +124,4 @@ Public Class FormLapJual
     End Sub
 
 
-    Private Sub AxCrystalReport1_Enter(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles AxCrystalReport1.Enter
-
-    End Sub
 End Class
